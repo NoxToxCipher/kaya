@@ -1,13 +1,14 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "name": "Kaya 0.1.1",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.1/Kaya-0.1.1.apk",
-  "apkSize": 7553012,
-  "sha256": "d9f0c8090f135918fc459c3b143efdf280422ec23ed4f454503d3c4f26c0eb99",
-  "changelog": "Dark theme (Crake teal-black palette) with a light/dark toggle in the menu, plus a tidier header.",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "name": "Kaya 0.1.2",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.2/Kaya-0.1.2.apk",
+  "apkSize": 7568904,
+  "sha256": "1dd251b81fe90c9a89f67298d241453bffe72d8518b98e0b7e4ee3ca8bef0b95",
+  "changelog": "Crake electric-teal dark theme, a stone-click sound, and a richer board (wood grain, shaded stones with drop shadows, and place/capture animations).",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
-    "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header."
+    "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
+    "3": "Crake electric-teal palette, stone-click sound, and a richer board: wood grain, shaded stones with drop shadows, and place/capture animations."
   }
 }
