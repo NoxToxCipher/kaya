@@ -1,14 +1,15 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "name": "Kaya 0.1.2",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.2/Kaya-0.1.2.apk",
-  "apkSize": 7568904,
-  "sha256": "1dd251b81fe90c9a89f67298d241453bffe72d8518b98e0b7e4ee3ca8bef0b95",
-  "changelog": "Crake electric-teal dark theme, a stone-click sound, and a richer board (wood grain, shaded stones with drop shadows, and place/capture animations).",
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "name": "Kaya 0.1.3",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.3/Kaya-0.1.3.apk",
+  "apkSize": 7568984,
+  "sha256": "ca4acf6eab9c3916154b700a977bbd4321fdd58f1b7a9d9e3a3f8d2b71525aee",
+  "changelog": "Fixes the OTA install (FileProvider path). Includes the 0.1.2 additions: Crake electric-teal theme, stone-click sound, and the richer board.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
-    "3": "Crake electric-teal palette, stone-click sound, and a richer board: wood grain, shaded stones with drop shadows, and place/capture animations."
+    "3": "Crake electric-teal palette, stone-click sound, and a richer board.",
+    "4": "Fixed OTA install (FileProvider path)."
   }
 }
