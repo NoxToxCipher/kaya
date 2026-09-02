@@ -1,12 +1,13 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "name": "Kaya 0.1.0",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.0/Kaya-0.1.0.apk",
-  "apkSize": 4528220,
-  "sha256": null,
-  "changelog": "First build: offline 9/13/19 board, full rules and scoring, SGF, an interim computer opponent, and OTA updates.",
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "name": "Kaya 0.1.1",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.1/Kaya-0.1.1.apk",
+  "apkSize": 7553012,
+  "sha256": "d9f0c8090f135918fc459c3b143efdf280422ec23ed4f454503d3c4f26c0eb99",
+  "changelog": "Dark theme (Crake teal-black palette) with a light/dark toggle in the menu, plus a tidier header.",
   "history": {
-    "1": "First build: offline 9/13/19 board, full rules and scoring, SGF, an interim computer opponent, and OTA updates."
+    "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
+    "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header."
   }
 }
