@@ -1,0 +1,12 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "name": "Kaya 0.1.0",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.0/Kaya-0.1.0.apk",
+  "apkSize": 4528220,
+  "sha256": null,
+  "changelog": "First build: offline 9/13/19 board, full rules and scoring, SGF, an interim computer opponent, and OTA updates.",
+  "history": {
+    "1": "First build: offline 9/13/19 board, full rules and scoring, SGF, an interim computer opponent, and OTA updates."
+  }
+}
