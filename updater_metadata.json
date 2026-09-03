@@ -1,11 +1,11 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.8",
-  "name": "Kaya 0.1.8",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.8/Kaya-0.1.8.apk",
-  "apkSize": 7612518,
-  "sha256": "6ef65bc4960053cf701f415426c9cb0b7f19754f05ec07578bc5b4dcbd280a8c",
-  "changelog": "A tighter opponent: the bot no longer wastes moves throwing stones into self-atari, so it reads deeper on the moves that matter.",
+  "versionCode": 10,
+  "versionName": "0.1.9",
+  "name": "Kaya 0.1.9",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.9/Kaya-0.1.9.apk",
+  "apkSize": 7614338,
+  "sha256": "62ecc04296b6fd06ba2db94e0408a221c4b8d3b43baeaf5594998bb185ba48fc",
+  "changelog": "The computer ends decided games gracefully: when you pass and it is settled and ahead, it passes back to finish instead of playing on.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -15,6 +15,7 @@
     "6": "Fail-safe update install (browser fallback) and a richer wood texture.",
     "7": "NFC tap-to-share (tap another phone to open Kaya's download page).",
     "8": "Stronger bot: RAVE search shares each playout across related moves for more purposeful, tougher play at the same speed.",
-    "9": "Tighter bot: prunes pointless self-atari moves before searching, so it never slams a stone into nothing and reads deeper."
+    "9": "Tighter bot: prunes pointless self-atari moves before searching, so it never slams a stone into nothing and reads deeper.",
+    "10": "The computer ends decided games gracefully: when you pass and it is settled and ahead, it passes back instead of playing on."
   }
 }
