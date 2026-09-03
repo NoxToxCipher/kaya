@@ -1,16 +1,17 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "name": "Kaya 0.1.4",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.4/Kaya-0.1.4.apk",
-  "apkSize": 7580836,
-  "sha256": "ee67cf9c45664421c575f576c3928a05c4cbfd40aa4c3f902c799d211f45a7c8",
-  "changelog": "A much faster, stronger computer opponent (about 6x quicker with informed rollouts), and a tablet layout that uses landscape properly — board on the left, controls in a side panel.",
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "name": "Kaya 0.1.5",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.5/Kaya-0.1.5.apk",
+  "apkSize": 7585864,
+  "sha256": "008152f25a735ee4461172b3aa89d6a4a7bdc709f2709f32b6b494e732740ff0",
+  "changelog": "Update installs now fail safe: if the in-app installer has trouble, Kaya opens the download in your browser to finish (and shows the real reason). Plus a richer wood board texture.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
     "3": "Crake electric-teal palette, stone-click sound, and a richer board.",
     "4": "Fixed OTA install (FileProvider path).",
-    "5": "Faster, stronger bot and a purpose-built tablet (landscape) layout."
+    "5": "Faster, stronger bot and a purpose-built tablet (landscape) layout.",
+    "6": "Fail-safe update install (browser fallback) and a richer wood texture."
   }
 }
