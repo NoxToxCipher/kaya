@@ -1,11 +1,11 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "name": "Kaya 0.1.6",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.6/Kaya-0.1.6.apk",
-  "apkSize": 7600114,
-  "sha256": "cf796c3405bcfc0d70cf31aa2221a8c305ec4c90040d9f80a20ffe3466153509",
-  "changelog": "NFC tap-to-share: tap another phone to open Kaya's download page, no app needed on the other device.",
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "name": "Kaya 0.1.7",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.7/Kaya-0.1.7.apk",
+  "apkSize": 7611774,
+  "sha256": "0eb233f2931caaa04d01a74c6ad47a1387c7d53ec48f2600ca8c32a1a5e3c1a7",
+  "changelog": "A stronger computer opponent: it now learns from each read faster (RAVE), so it plays more purposeful moves at the same speed.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -13,6 +13,7 @@
     "4": "Fixed OTA install (FileProvider path).",
     "5": "Faster, stronger bot and a purpose-built tablet (landscape) layout.",
     "6": "Fail-safe update install (browser fallback) and a richer wood texture.",
-    "7": "NFC tap-to-share (tap another phone to open Kaya's download page)."
+    "7": "NFC tap-to-share (tap another phone to open Kaya's download page).",
+    "8": "Stronger bot: RAVE search shares each playout across related moves for more purposeful, tougher play at the same speed."
   }
 }
