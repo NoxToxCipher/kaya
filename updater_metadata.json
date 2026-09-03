@@ -1,11 +1,11 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.17",
-  "name": "Kaya 0.1.17",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.17/Kaya-0.1.17.apk",
-  "apkSize": 7637982,
-  "sha256": "38c93801bf0fab842bb12fe6976b12f38ec77ceae9216f2608e49466a1e37790",
-  "changelog": "A stronger read at the same speed: the bot's playouts are now forcing (they press weak groups into atari and follow up), so it judges fights far more accurately.",
+  "versionCode": 19,
+  "versionName": "0.1.18",
+  "name": "Kaya 0.1.18",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.18/Kaya-0.1.18.apk",
+  "apkSize": 7639270,
+  "sha256": "ef5018302744234e90195515f60ea2d970d8a3f08289fd85cbdb46e7685a62e5",
+  "changelog": "A clearer result: when the game is scored, each side shows where its points came from (territory + captures, or stones + area) with komi.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -24,6 +24,7 @@
     "15": "Better shape: the bot now connects its own stones into strong groups and wedges to cut yours apart, so its stones work together.",
     "16": "The opponent now reads ladders: it favours ataris that actually run a stone down and capture, and no longer treats escaping ataris as wins.",
     "17": "A ko marker: when a recapture is forbidden by the ko rule, the board shows a small square on that point so it is clear why and where you cannot play yet.",
-    "18": "A stronger read at the same speed: the bot's playouts are now forcing (they press weak groups into atari and follow up), so it judges fights far more accurately."
+    "18": "A stronger read at the same speed: the bot's playouts are now forcing (they press weak groups into atari and follow up), so it judges fights far more accurately.",
+    "19": "A clearer result: when the game is scored, each side shows where its points came from (territory + captures, or stones + area) with komi."
   }
 }
