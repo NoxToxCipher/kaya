@@ -1,11 +1,11 @@
 {
-  "versionCode": 33,
-  "versionName": "0.1.32",
-  "name": "Kaya 0.1.32",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.32/Kaya-0.1.32.apk",
-  "apkSize": 7647838,
-  "sha256": "84ce0b6561951b2361220b4b49cc3ab915f0f52179837b71e226cf0d87517fe4",
-  "changelog": "Complete results in saved games: a game that ends by counting now records its final score in the SGF (e.g. B+12.5), not just resignations.",
+  "versionCode": 34,
+  "versionName": "0.1.33",
+  "name": "Kaya 0.1.33",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.33/Kaya-0.1.33.apk",
+  "apkSize": 7649082,
+  "sha256": "9fde6954519aa083ce2684c0b50ceec182e4c91dd298deda71cca25c8ac98513",
+  "changelog": "Graceful concessions: when the computer is hopelessly behind in a developed game it resigns instead of making you capture everything, but never early off a shaky read.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -39,6 +39,7 @@
     "30": "A smarter Easy opponent: it now saves its own groups when you atari them instead of letting them die, and varies its play from game to game.",
     "31": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari.",
     "32": "Opens more game files: SGFs with variations (game reviews, problem sets) now load along the main line instead of muddling every branch together.",
-    "33": "Complete results in saved games: a game that ends by counting now records its final score in the SGF (e.g. B+12.5), not just resignations."
+    "33": "Complete results in saved games: a game that ends by counting now records its final score in the SGF (e.g. B+12.5), not just resignations.",
+    "34": "Graceful concessions: when the computer is hopelessly behind in a developed game it resigns instead of making you capture everything, but never early off a shaky read."
   }
 }
