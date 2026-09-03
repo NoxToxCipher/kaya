@@ -1,11 +1,11 @@
 {
-  "versionCode": 23,
-  "versionName": "0.1.22",
-  "name": "Kaya 0.1.22",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.22/Kaya-0.1.22.apk",
-  "apkSize": 7643474,
-  "sha256": "3a978b29acf40f021e514f39b02d98459ea22ef9a2df7bf69a6b1ae554b9ae48",
-  "changelog": "Sensible openings: the computer now starts in the corners like real games, instead of dropping its first stones anywhere along the side.",
+  "versionCode": 24,
+  "versionName": "0.1.23",
+  "name": "Kaya 0.1.23",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.23/Kaya-0.1.23.apk",
+  "apkSize": 7645154,
+  "sha256": "975670d4504b1ddf73b2bff73183d3d5fd0ccfeeb61dadf0d00cb0c54e8840a0",
+  "changelog": "No more hopeless ladders: the bot now reads whether a caught group can escape and stops running one that is lost, instead of feeding you more stones.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -29,6 +29,7 @@
     "20": "Easier to follow: the status line now names the move just played (e.g. \"White played G5\"), so you can find your opponent's stone at a glance.",
     "21": "Kaya remembers your setup: the New Game dialog opens on the size, ruleset, handicap, opponent, and difficulty you last played.",
     "22": "Resign now asks first (one tap arms it, the button becomes Confirm resign), so a stray tap can't end your game. New Game also truly remembers your last setup across launches.",
-    "23": "Sensible openings: the computer now starts in the corners like real games, instead of dropping its first stones anywhere along the side."
+    "23": "Sensible openings: the computer now starts in the corners like real games, instead of dropping its first stones anywhere along the side.",
+    "24": "No more hopeless ladders: the bot now reads whether a caught group can escape and stops running one that is lost, instead of feeding you more stones."
   }
 }
