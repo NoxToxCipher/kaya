@@ -1,11 +1,11 @@
 {
-  "versionCode": 30,
-  "versionName": "0.1.29",
-  "name": "Kaya 0.1.29",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.29/Kaya-0.1.29.apk",
-  "apkSize": 7646670,
-  "sha256": "fa8fbb835ffc81a629a65c0d523ddb44cfc42d4b28c17f206c62a3e9c295e4fc",
-  "changelog": "A smarter Easy opponent: it now saves its own groups when you atari them instead of letting them die, and varies its play from game to game.",
+  "versionCode": 31,
+  "versionName": "0.1.30",
+  "name": "Kaya 0.1.30",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.30/Kaya-0.1.30.apk",
+  "apkSize": 7647810,
+  "sha256": "6feba034b8833fb3bd104caaf3132eddfa1f353838180ae506c2a8f5a8488657",
+  "changelog": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -36,6 +36,7 @@
     "27": "Games feel fresh: the computer now varies its play from game to game instead of opening the same corner and answering identically every time.",
     "28": "Complete saved games: SGF exports now record the ruleset and the result on a resignation, so they open with the right rules and winner in other Go software.",
     "29": "Sharper fighting: the computer now spots a double atari (one move forking two of your groups) and no longer over-values touching a single group from several sides.",
-    "30": "A smarter Easy opponent: it now saves its own groups when you atari them instead of letting them die, and varies its play from game to game."
+    "30": "A smarter Easy opponent: it now saves its own groups when you atari them instead of letting them die, and varies its play from game to game.",
+    "31": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari."
   }
 }
