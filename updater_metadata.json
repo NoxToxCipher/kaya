@@ -1,11 +1,11 @@
 {
-  "versionCode": 28,
-  "versionName": "0.1.27",
-  "name": "Kaya 0.1.27",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.27/Kaya-0.1.27.apk",
-  "apkSize": 7645514,
-  "sha256": "fe249878da60fdcb4e69e2a69a11462709ca712345e6115340dfc91b1540a3ff",
-  "changelog": "Complete saved games: SGF exports now record the ruleset and the result on a resignation, so they open with the right rules and winner in other Go software.",
+  "versionCode": 29,
+  "versionName": "0.1.28",
+  "name": "Kaya 0.1.28",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.28/Kaya-0.1.28.apk",
+  "apkSize": 7646510,
+  "sha256": "a9321c1e09136f0475d14559a4392115ffdb2a92f7a09c596766d7c7a7289f43",
+  "changelog": "Sharper fighting: the computer now spots a double atari (one move forking two of your groups) and no longer over-values touching a single group from several sides.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -34,6 +34,7 @@
     "25": "A tougher default: the Medium computer (where every new game starts) now reads deeper and plays stronger, while still moving in about a second.",
     "26": "Better opening shape: in the opening the computer no longer attaches onto your lone stones, it approaches from a distance and takes big points instead.",
     "27": "Games feel fresh: the computer now varies its play from game to game instead of opening the same corner and answering identically every time.",
-    "28": "Complete saved games: SGF exports now record the ruleset and the result on a resignation, so they open with the right rules and winner in other Go software."
+    "28": "Complete saved games: SGF exports now record the ruleset and the result on a resignation, so they open with the right rules and winner in other Go software.",
+    "29": "Sharper fighting: the computer now spots a double atari (one move forking two of your groups) and no longer over-values touching a single group from several sides."
   }
 }
