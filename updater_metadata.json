@@ -1,17 +1,18 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
-  "name": "Kaya 0.1.5",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.5/Kaya-0.1.5.apk",
-  "apkSize": 7585864,
-  "sha256": "008152f25a735ee4461172b3aa89d6a4a7bdc709f2709f32b6b494e732740ff0",
-  "changelog": "Update installs now fail safe: if the in-app installer has trouble, Kaya opens the download in your browser to finish (and shows the real reason). Plus a richer wood board texture.",
+  "versionCode": 7,
+  "versionName": "0.1.6",
+  "name": "Kaya 0.1.6",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.6/Kaya-0.1.6.apk",
+  "apkSize": 7600114,
+  "sha256": "cf796c3405bcfc0d70cf31aa2221a8c305ec4c90040d9f80a20ffe3466153509",
+  "changelog": "NFC tap-to-share: tap another phone to open Kaya's download page, no app needed on the other device.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
     "3": "Crake electric-teal palette, stone-click sound, and a richer board.",
     "4": "Fixed OTA install (FileProvider path).",
     "5": "Faster, stronger bot and a purpose-built tablet (landscape) layout.",
-    "6": "Fail-safe update install (browser fallback) and a richer wood texture."
+    "6": "Fail-safe update install (browser fallback) and a richer wood texture.",
+    "7": "NFC tap-to-share (tap another phone to open Kaya's download page)."
   }
 }
