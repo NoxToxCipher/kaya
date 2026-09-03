@@ -1,11 +1,11 @@
 {
-  "versionCode": 22,
-  "versionName": "0.1.21",
-  "name": "Kaya 0.1.21",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.21/Kaya-0.1.21.apk",
-  "apkSize": 7643546,
-  "sha256": "ec186de4e437d9fc03ba2d1a21659b0b0234e772f9a03f71379ff8e5eae01483",
-  "changelog": "Resign now asks first (one tap arms it, the button becomes Confirm resign), so a stray tap can't end your game. New Game also truly remembers your last setup across launches.",
+  "versionCode": 23,
+  "versionName": "0.1.22",
+  "name": "Kaya 0.1.22",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.22/Kaya-0.1.22.apk",
+  "apkSize": 7643474,
+  "sha256": "3a978b29acf40f021e514f39b02d98459ea22ef9a2df7bf69a6b1ae554b9ae48",
+  "changelog": "Sensible openings: the computer now starts in the corners like real games, instead of dropping its first stones anywhere along the side.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -28,6 +28,7 @@
     "19": "A clearer result: when the game is scored, each side shows where its points came from (territory + captures, or stones + area) with komi.",
     "20": "Easier to follow: the status line now names the move just played (e.g. \"White played G5\"), so you can find your opponent's stone at a glance.",
     "21": "Kaya remembers your setup: the New Game dialog opens on the size, ruleset, handicap, opponent, and difficulty you last played.",
-    "22": "Resign now asks first (one tap arms it, the button becomes Confirm resign), so a stray tap can't end your game. New Game also truly remembers your last setup across launches."
+    "22": "Resign now asks first (one tap arms it, the button becomes Confirm resign), so a stray tap can't end your game. New Game also truly remembers your last setup across launches.",
+    "23": "Sensible openings: the computer now starts in the corners like real games, instead of dropping its first stones anywhere along the side."
   }
 }
