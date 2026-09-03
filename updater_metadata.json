@@ -1,11 +1,11 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.10",
-  "name": "Kaya 0.1.10",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.10/Kaya-0.1.10.apk",
-  "apkSize": 7614598,
-  "sha256": "1fed4eb43b36a3a797952df31c0490ad88b1c187efa20e65ddb30f9ca8d72caa",
-  "changelog": "A more handsome board: a proper goban frame with a heavier outer border and hairline inner lines, scaled to the board size.",
+  "versionCode": 12,
+  "versionName": "0.1.11",
+  "name": "Kaya 0.1.11",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.11/Kaya-0.1.11.apk",
+  "apkSize": 7614614,
+  "sha256": "3d076a7304cbef375fa51cb837a191b4ac11c1f60e0cff7a14fdfd12b9544d91",
+  "changelog": "A more tactical opponent: it now values captures, threats, and rescues by group size, so it goes after whole groups and defends its big ones.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -17,6 +17,7 @@
     "8": "Stronger bot: RAVE search shares each playout across related moves for more purposeful, tougher play at the same speed.",
     "9": "Tighter bot: prunes pointless self-atari moves before searching, so it never slams a stone into nothing and reads deeper.",
     "10": "The computer ends decided games gracefully: when you pass and it is settled and ahead, it passes back instead of playing on.",
-    "11": "A more handsome board: a proper goban frame with a heavier outer border and hairline inner lines, scaled to the board size."
+    "11": "A more handsome board: a proper goban frame with a heavier outer border and hairline inner lines, scaled to the board size.",
+    "12": "A more tactical opponent: it now values captures, threats, and rescues by group size, so it goes after whole groups and defends its big ones."
   }
 }
