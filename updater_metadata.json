@@ -1,11 +1,11 @@
 {
-  "versionCode": 26,
-  "versionName": "0.1.25",
-  "name": "Kaya 0.1.25",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.25/Kaya-0.1.25.apk",
-  "apkSize": 7645190,
-  "sha256": "0fb7adc8c3b19335065e752aadf73278f9b3b6b04a2ff92a3dc1fd8f5d712d48",
-  "changelog": "Better opening shape: in the opening the computer no longer attaches onto your lone stones, it approaches from a distance and takes big points instead.",
+  "versionCode": 27,
+  "versionName": "0.1.26",
+  "name": "Kaya 0.1.26",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.26/Kaya-0.1.26.apk",
+  "apkSize": 7645394,
+  "sha256": "f8b98c646bf09bb3c76680088a770788dcd5147256626141becfbbaf337c9334",
+  "changelog": "Games feel fresh: the computer now varies its play from game to game instead of opening the same corner and answering identically every time.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -32,6 +32,7 @@
     "23": "Sensible openings: the computer now starts in the corners like real games, instead of dropping its first stones anywhere along the side.",
     "24": "No more hopeless ladders: the bot now reads whether a caught group can escape and stops running one that is lost, instead of feeding you more stones.",
     "25": "A tougher default: the Medium computer (where every new game starts) now reads deeper and plays stronger, while still moving in about a second.",
-    "26": "Better opening shape: in the opening the computer no longer attaches onto your lone stones, it approaches from a distance and takes big points instead."
+    "26": "Better opening shape: in the opening the computer no longer attaches onto your lone stones, it approaches from a distance and takes big points instead.",
+    "27": "Games feel fresh: the computer now varies its play from game to game instead of opening the same corner and answering identically every time."
   }
 }
