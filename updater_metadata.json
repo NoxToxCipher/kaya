@@ -1,11 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "0.1.13",
-  "name": "Kaya 0.1.13",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.13/Kaya-0.1.13.apk",
-  "apkSize": 7631622,
-  "sha256": "7c8c4cbce450005b5b99ef1a04ab8ae4317a3c5c74b3601be9bb2258ea4bef0f",
-  "changelog": "A far more tactical opponent: it now blocks when you atari it, and it puts your stones in atari and captures. Forcing moves no longer fade out of its reading.",
+  "versionCode": 15,
+  "versionName": "0.1.14",
+  "name": "Kaya 0.1.14",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.14/Kaya-0.1.14.apk",
+  "apkSize": 7633154,
+  "sha256": "b8a93e720c9a2453815d06f9f5b7f76fe250cccbc637b9d6825bd24ff57d1448",
+  "changelog": "Better shape: the bot now connects its own stones into strong groups and wedges to cut yours apart, so its stones work together.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -20,6 +20,7 @@
     "11": "A more handsome board: a proper goban frame with a heavier outer border and hairline inner lines, scaled to the board size.",
     "12": "A more tactical opponent: it now values captures, threats, and rescues by group size, so it goes after whole groups and defends its big ones.",
     "13": "The About screen now shows the real installed version, so every update is visible on the phone.",
-    "14": "A far more tactical opponent: it now blocks when you atari it, and it puts your stones in atari and captures. Forcing moves no longer fade out of its reading."
+    "14": "A far more tactical opponent: it now blocks when you atari it, and it puts your stones in atari and captures. Forcing moves no longer fade out of its reading.",
+    "15": "Better shape: the bot now connects its own stones into strong groups and wedges to cut yours apart, so its stones work together."
   }
 }
