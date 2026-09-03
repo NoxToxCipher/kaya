@@ -1,11 +1,11 @@
 {
-  "versionCode": 31,
-  "versionName": "0.1.30",
-  "name": "Kaya 0.1.30",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.30/Kaya-0.1.30.apk",
-  "apkSize": 7647810,
-  "sha256": "6feba034b8833fb3bd104caaf3132eddfa1f353838180ae506c2a8f5a8488657",
-  "changelog": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari.",
+  "versionCode": 32,
+  "versionName": "0.1.31",
+  "name": "Kaya 0.1.31",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.31/Kaya-0.1.31.apk",
+  "apkSize": 7647798,
+  "sha256": "053cc5bc7df96d8f38ff849f7c8e1286e3de353e631708b12d2f44972844963e",
+  "changelog": "Opens more game files: SGFs with variations (game reviews, problem sets) now load along the main line instead of muddling every branch together.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -37,6 +37,7 @@
     "28": "Complete saved games: SGF exports now record the ruleset and the result on a resignation, so they open with the right rules and winner in other Go software.",
     "29": "Sharper fighting: the computer now spots a double atari (one move forking two of your groups) and no longer over-values touching a single group from several sides.",
     "30": "A smarter Easy opponent: it now saves its own groups when you atari them instead of letting them die, and varies its play from game to game.",
-    "31": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari."
+    "31": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari.",
+    "32": "Opens more game files: SGFs with variations (game reviews, problem sets) now load along the main line instead of muddling every branch together."
   }
 }
