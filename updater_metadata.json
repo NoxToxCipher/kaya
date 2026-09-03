@@ -1,11 +1,11 @@
 {
-  "versionCode": 21,
-  "versionName": "0.1.20",
-  "name": "Kaya 0.1.20",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.20/Kaya-0.1.20.apk",
-  "apkSize": 7643162,
-  "sha256": "00ea860b05ae1976c893701d6ef286bba9684bd15c2617bf9df12b902a1cb400",
-  "changelog": "Kaya remembers your setup: the New Game dialog opens on the size, ruleset, handicap, opponent, and difficulty you last played.",
+  "versionCode": 22,
+  "versionName": "0.1.21",
+  "name": "Kaya 0.1.21",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.21/Kaya-0.1.21.apk",
+  "apkSize": 7643546,
+  "sha256": "ec186de4e437d9fc03ba2d1a21659b0b0234e772f9a03f71379ff8e5eae01483",
+  "changelog": "Resign now asks first (one tap arms it, the button becomes Confirm resign), so a stray tap can't end your game. New Game also truly remembers your last setup across launches.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -27,6 +27,7 @@
     "18": "A stronger read at the same speed: the bot's playouts are now forcing (they press weak groups into atari and follow up), so it judges fights far more accurately.",
     "19": "A clearer result: when the game is scored, each side shows where its points came from (territory + captures, or stones + area) with komi.",
     "20": "Easier to follow: the status line now names the move just played (e.g. \"White played G5\"), so you can find your opponent's stone at a glance.",
-    "21": "Kaya remembers your setup: the New Game dialog opens on the size, ruleset, handicap, opponent, and difficulty you last played."
+    "21": "Kaya remembers your setup: the New Game dialog opens on the size, ruleset, handicap, opponent, and difficulty you last played.",
+    "22": "Resign now asks first (one tap arms it, the button becomes Confirm resign), so a stray tap can't end your game. New Game also truly remembers your last setup across launches."
   }
 }
