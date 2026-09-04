@@ -1,11 +1,11 @@
 {
-  "versionCode": 42,
-  "versionName": "0.1.41",
-  "name": "Kaya 0.1.41",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.41/Kaya-0.1.41.apk",
-  "apkSize": 7659470,
-  "sha256": "839b9e5a054e3d0264fdcd857875c49103452daed738f9657cd00476c5d61173",
-  "changelog": "A board with real depth: the wood now has a beveled edge, catching light along the top and left and settling into shadow at the bottom and right, so it reads as a solid slab of kaya on the table. Especially lovely in the dark theme.",
+  "versionCode": 43,
+  "versionName": "0.1.42",
+  "name": "Kaya 0.1.42",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.42/Kaya-0.1.42.apk",
+  "apkSize": 7659394,
+  "sha256": "f3a1021fab869442f7305b7eb4ddbec972503fada67354e5022ae0d52f2d3156",
+  "changelog": "Tidier scoring: when the game is counted, the territory marks are now smaller, softly rounded, and gently outlined, so they read as delicate points on the wood instead of heavy blocks. The white marks no longer melt into the board.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -48,6 +48,7 @@
     "39": "A more refined New Game dialog: settings sit under small-cap section headers with more breathing room, and a soft divider sets your choices apart from Start game. Tidy in both themes.",
     "40": "A polished Kaya mark: the two stones in the logo (and the little header mark) now catch the same shading and glossy light as the stones on the board, and the About logo lifts off the panel with a soft shadow.",
     "41": "Nicer player cards: the little Black and White stones on the two player pills are now real, shaded stones with a soft shadow, matching the board and logo. The White marker no longer fades into the cream panel.",
-    "42": "A board with real depth: the wood now has a beveled edge, catching light along the top and left and settling into shadow at the bottom and right, so it reads as a solid slab of kaya on the table. Especially lovely in the dark theme."
+    "42": "A board with real depth: the wood now has a beveled edge, catching light along the top and left and settling into shadow at the bottom and right, so it reads as a solid slab of kaya on the table. Especially lovely in the dark theme.",
+    "43": "Tidier scoring: when the game is counted, the territory marks are now smaller, softly rounded, and gently outlined, so they read as delicate points on the wood instead of heavy blocks. The white marks no longer melt into the board."
   }
 }
