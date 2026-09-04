@@ -1,11 +1,11 @@
 {
-  "versionCode": 68,
-  "versionName": "0.1.67",
-  "name": "Kaya 0.1.67",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.67/Kaya-0.1.67.apk",
-  "apkSize": 8282922,
-  "sha256": "7d20447f86123130f148afd76d9881fad335fb3542d29cac2fb14469fc51fa65",
-  "changelog": "The last-move ring now looks right on every board size. Its outline used to be a fixed thickness, which read a touch chunky on the small stones of a 19x19 board; it now scales with the stone, staying elegant on 9x9 and proportionally lighter on 19x19.",
+  "versionCode": 69,
+  "versionName": "0.1.68",
+  "name": "Kaya 0.1.68",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.68/Kaya-0.1.68.apk",
+  "apkSize": 8282946,
+  "sha256": "8f903efb6097c69b99efec90384a2c31c50f1b09fc391d98e0b6fa02dd4856e9",
+  "changelog": "Dialogs read as crisp floating cards in the dark theme. The New Game and About panels lean on a drop shadow to lift off the background, but a shadow is invisible against the dark theme's near-black, so the panel used to blur into it. They now carry a fine outline that defines the edge in both themes.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -74,6 +74,7 @@
     "65": "A living wait: while the computer is thinking its move, the status line now shows a gently animated 'Kaya is thinking…' with the dots cycling, so on a slower search it's clearly working rather than frozen.",
     "66": "Steadier controls: arming Resign now shows a compact 'Confirm' on the button (with the status line spelling out what it does), so the row of controls no longer bumps a button onto a second line while you decide.",
     "67": "The move you just played stands out: in the status line, the coordinate of the last move is now picked out in the accent colour (matching the highlight along the board's edge), so 'White played D5' points you right to it. Also tidied a stray double space.",
-    "68": "The last-move ring now looks right on every board size. Its outline used to be a fixed thickness, which read a touch chunky on the small stones of a 19x19 board; it now scales with the stone, staying elegant on 9x9 and proportionally lighter on 19x19."
+    "68": "The last-move ring now looks right on every board size. Its outline used to be a fixed thickness, which read a touch chunky on the small stones of a 19x19 board; it now scales with the stone, staying elegant on 9x9 and proportionally lighter on 19x19.",
+    "69": "Dialogs read as crisp floating cards in the dark theme. The New Game and About panels lean on a drop shadow to lift off the background, but a shadow is invisible against the dark theme's near-black, so the panel used to blur into it. They now carry a fine outline that defines the edge in both themes."
   }
 }
