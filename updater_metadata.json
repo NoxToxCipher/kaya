@@ -1,11 +1,11 @@
 {
-  "versionCode": 50,
-  "versionName": "0.1.49",
-  "name": "Kaya 0.1.49",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.49/Kaya-0.1.49.apk",
-  "apkSize": 8329190,
-  "sha256": "5205ddc156cfd7884467d6080527e2eec3d531c0cb6996d8e5c555ba20446843",
-  "changelog": "A little colophon: the About screen now credits the two typefaces that dress the app, and sets each name in its own face, Spectral in Spectral and Fira Sans in Fira Sans. A small mark of care, and a nod to the open-font makers.",
+  "versionCode": 51,
+  "versionName": "0.1.50",
+  "name": "Kaya 0.1.50",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.50/Kaya-0.1.50.apk",
+  "apkSize": 8329462,
+  "sha256": "e8d74be57189ef6f1862ceb9a0e736b196797bef34ec941a9e80afea123e81db",
+  "changelog": "A cleaner Menu: the dropdown now reads as a proper menu, clean full-width rows with a light touch of colour on the one you're pointing at and a soft divider between the file actions and the settings, instead of a stack of little outlined boxes.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -56,6 +56,7 @@
     "47": "A typeface with character: the Kaya name, the dialog titles and the game result now wear an elegant serif (Spectral), while the rest stays crisp and clean. A calm, timeless feel that suits an old game. Lovely in both themes.",
     "48": "The whole app now reads in a proper typeface: the body text moves to Fira Sans, a warm, clear humanist sans that pairs with the Spectral serif on the titles. Buttons, labels and the board coordinates all look crisper and more intentional, in both themes.",
     "49": "The players get their names in the good typeface too: Black and White on the two cards are now set in the Spectral serif, matching the Kaya wordmark and dialog titles, while the capture count and turn stay in the clean sans.",
-    "50": "A little colophon: the About screen now credits the two typefaces that dress the app, and sets each name in its own face, Spectral in Spectral and Fira Sans in Fira Sans. A small mark of care, and a nod to the open-font makers."
+    "50": "A little colophon: the About screen now credits the two typefaces that dress the app, and sets each name in its own face, Spectral in Spectral and Fira Sans in Fira Sans. A small mark of care, and a nod to the open-font makers.",
+    "51": "A cleaner Menu: the dropdown now reads as a proper menu, clean full-width rows with a light touch of colour on the one you're pointing at and a soft divider between the file actions and the settings, instead of a stack of little outlined boxes."
   }
 }
