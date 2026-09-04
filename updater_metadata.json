@@ -1,11 +1,11 @@
 {
-  "versionCode": 61,
-  "versionName": "0.1.60",
-  "name": "Kaya 0.1.60",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.60/Kaya-0.1.60.apk",
-  "apkSize": 8278618,
-  "sha256": "2e8be47e1fa4144d4d2ae11d7747e90d382aa0a06b20d5b9e41e98174cbe02a3",
-  "changelog": "One last stock control gone: the 'check for updates automatically' setting in About is now a proper pill toggle that slides and turns the accent colour, matching every other control in the app, instead of a plain tick box.",
+  "versionCode": 62,
+  "versionName": "0.1.61",
+  "name": "Kaya 0.1.61",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.61/Kaya-0.1.61.apk",
+  "apkSize": 8278726,
+  "sha256": "377dc0e7d579d3c6fc891e16a69736c96cdf59984f4eed522c96d9c7780f4020",
+  "changelog": "Better on a tablet: in the wide landscape layout the two player cards now stack down the side panel, each getting its own roomy card, instead of being squeezed side by side. The upright phone layout is unchanged.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -67,6 +67,7 @@
     "58": "Kaya's read settles in: after a Hint, the who-is-ahead bar now sweeps from even to the estimate, with the percentages counting up as it lands, so the verdict arrives with a considered little motion instead of snapping into place.",
     "59": "Real shell stones: the white stones now carry the faintest clamshell grain, the fine growth lines a real yuki Go stone shows, so they read as polished shell rather than plain white. Barely there, but it is the sort of detail a Go player notices.",
     "60": "The hint arrives gracefully: when you ask for a Hint, the suggested-move marker now eases onto the board as the read settles, so Kaya's whole suggestion appears with one calm motion rather than snapping in.",
-    "61": "One last stock control gone: the 'check for updates automatically' setting in About is now a proper pill toggle that slides and turns the accent colour, matching every other control in the app, instead of a plain tick box."
+    "61": "One last stock control gone: the 'check for updates automatically' setting in About is now a proper pill toggle that slides and turns the accent colour, matching every other control in the app, instead of a plain tick box.",
+    "62": "Better on a tablet: in the wide landscape layout the two player cards now stack down the side panel, each getting its own roomy card, instead of being squeezed side by side. The upright phone layout is unchanged."
   }
 }
