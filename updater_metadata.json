@@ -1,11 +1,11 @@
 {
-  "versionCode": 34,
-  "versionName": "0.1.33",
-  "name": "Kaya 0.1.33",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.33/Kaya-0.1.33.apk",
-  "apkSize": 7649082,
-  "sha256": "9fde6954519aa083ce2684c0b50ceec182e4c91dd298deda71cca25c8ac98513",
-  "changelog": "Graceful concessions: when the computer is hopelessly behind in a developed game it resigns instead of making you capture everything, but never early off a shaky read.",
+  "versionCode": 35,
+  "versionName": "0.1.34",
+  "name": "Kaya 0.1.34",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.34/Kaya-0.1.34.apk",
+  "apkSize": 7657114,
+  "sha256": "2d201e9055e00c99abcdf33dc6257ef9ad91ad344fe417d827b45e4c6a7fa30f",
+  "changelog": "Share your games: on Android, Save SGF now opens the share sheet to send a finished game (with ruleset and result) to Files, Drive, email, or a chat.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -40,6 +40,7 @@
     "31": "Defends earlier: the computer reinforces a group that is down to two liberties and under attack, before you can push it into atari.",
     "32": "Opens more game files: SGFs with variations (game reviews, problem sets) now load along the main line instead of muddling every branch together.",
     "33": "Complete results in saved games: a game that ends by counting now records its final score in the SGF (e.g. B+12.5), not just resignations.",
-    "34": "Graceful concessions: when the computer is hopelessly behind in a developed game it resigns instead of making you capture everything, but never early off a shaky read."
+    "34": "Graceful concessions: when the computer is hopelessly behind in a developed game it resigns instead of making you capture everything, but never early off a shaky read.",
+    "35": "Share your games: on Android, Save SGF now opens the share sheet to send a finished game (with ruleset and result) to Files, Drive, email, or a chat."
   }
 }
