@@ -1,11 +1,11 @@
 {
-  "versionCode": 65,
-  "versionName": "0.1.64",
-  "name": "Kaya 0.1.64",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.64/Kaya-0.1.64.apk",
-  "apkSize": 8280058,
-  "sha256": "6f314069b001e1264ab4bc6c44d79918cfa3ab41d7eb210c153b0f5157d61a13",
-  "changelog": "A living wait: while the computer is thinking its move, the status line now shows a gently animated 'Kaya is thinking…' with the dots cycling, so on a slower search it's clearly working rather than frozen.",
+  "versionCode": 66,
+  "versionName": "0.1.65",
+  "name": "Kaya 0.1.65",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.65/Kaya-0.1.65.apk",
+  "apkSize": 8280078,
+  "sha256": "3ba4e9af3f461b65a5373afb7b8d327ccc33e0403d06d4c9bedd53c39a6561e9",
+  "changelog": "Steadier controls: arming Resign now shows a compact 'Confirm' on the button (with the status line spelling out what it does), so the row of controls no longer bumps a button onto a second line while you decide.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -71,6 +71,7 @@
     "62": "Better on a tablet: in the wide landscape layout the two player cards now stack down the side panel, each getting its own roomy card, instead of being squeezed side by side. The upright phone layout is unchanged.",
     "63": "A tidier dialog: opening New Game or About now dims the whole screen behind it, including the side panel in the wide tablet layout, instead of leaving the side controls lit up. The dim is even everywhere now.",
     "64": "A small fix to the count: the score readout now says '1 capture' rather than '1 captures' (and likewise for a single stone in Chinese scoring), so the result reads properly when the number is one.",
-    "65": "A living wait: while the computer is thinking its move, the status line now shows a gently animated 'Kaya is thinking…' with the dots cycling, so on a slower search it's clearly working rather than frozen."
+    "65": "A living wait: while the computer is thinking its move, the status line now shows a gently animated 'Kaya is thinking…' with the dots cycling, so on a slower search it's clearly working rather than frozen.",
+    "66": "Steadier controls: arming Resign now shows a compact 'Confirm' on the button (with the status line spelling out what it does), so the row of controls no longer bumps a button onto a second line while you decide."
   }
 }
