@@ -1,11 +1,11 @@
 {
-  "versionCode": 51,
-  "versionName": "0.1.50",
-  "name": "Kaya 0.1.50",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.50/Kaya-0.1.50.apk",
-  "apkSize": 8329462,
-  "sha256": "e8d74be57189ef6f1862ceb9a0e736b196797bef34ec941a9e80afea123e81db",
-  "changelog": "A cleaner Menu: the dropdown now reads as a proper menu, clean full-width rows with a light touch of colour on the one you're pointing at and a soft divider between the file actions and the settings, instead of a stack of little outlined boxes.",
+  "versionCode": 52,
+  "versionName": "0.1.51",
+  "name": "Kaya 0.1.51",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.51/Kaya-0.1.51.apk",
+  "apkSize": 8329350,
+  "sha256": "de2dc3a20120eb63247afde9a04e6a7845664b842e19dc12c9bbc30c99f92969",
+  "changelog": "A more tactile placement: when a stone lands it now grows in from a touch smaller and settles with a gentle overshoot, so playing a move feels a little more like setting a stone on the board. Subtle, in keeping with Kaya's calm.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -57,6 +57,7 @@
     "48": "The whole app now reads in a proper typeface: the body text moves to Fira Sans, a warm, clear humanist sans that pairs with the Spectral serif on the titles. Buttons, labels and the board coordinates all look crisper and more intentional, in both themes.",
     "49": "The players get their names in the good typeface too: Black and White on the two cards are now set in the Spectral serif, matching the Kaya wordmark and dialog titles, while the capture count and turn stay in the clean sans.",
     "50": "A little colophon: the About screen now credits the two typefaces that dress the app, and sets each name in its own face, Spectral in Spectral and Fira Sans in Fira Sans. A small mark of care, and a nod to the open-font makers.",
-    "51": "A cleaner Menu: the dropdown now reads as a proper menu, clean full-width rows with a light touch of colour on the one you're pointing at and a soft divider between the file actions and the settings, instead of a stack of little outlined boxes."
+    "51": "A cleaner Menu: the dropdown now reads as a proper menu, clean full-width rows with a light touch of colour on the one you're pointing at and a soft divider between the file actions and the settings, instead of a stack of little outlined boxes.",
+    "52": "A more tactile placement: when a stone lands it now grows in from a touch smaller and settles with a gentle overshoot, so playing a move feels a little more like setting a stone on the board. Subtle, in keeping with Kaya's calm."
   }
 }
