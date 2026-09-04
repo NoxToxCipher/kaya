@@ -1,11 +1,11 @@
 {
-  "versionCode": 64,
-  "versionName": "0.1.63",
-  "name": "Kaya 0.1.63",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.63/Kaya-0.1.63.apk",
-  "apkSize": 8279794,
-  "sha256": "19031b8d7331d24fc9343756d2af39a1df5a79c30dd16818f6f8219cfb643ac7",
-  "changelog": "A small fix to the count: the score readout now says '1 capture' rather than '1 captures' (and likewise for a single stone in Chinese scoring), so the result reads properly when the number is one.",
+  "versionCode": 65,
+  "versionName": "0.1.64",
+  "name": "Kaya 0.1.64",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.64/Kaya-0.1.64.apk",
+  "apkSize": 8280058,
+  "sha256": "6f314069b001e1264ab4bc6c44d79918cfa3ab41d7eb210c153b0f5157d61a13",
+  "changelog": "A living wait: while the computer is thinking its move, the status line now shows a gently animated 'Kaya is thinking…' with the dots cycling, so on a slower search it's clearly working rather than frozen.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -70,6 +70,7 @@
     "61": "One last stock control gone: the 'check for updates automatically' setting in About is now a proper pill toggle that slides and turns the accent colour, matching every other control in the app, instead of a plain tick box.",
     "62": "Better on a tablet: in the wide landscape layout the two player cards now stack down the side panel, each getting its own roomy card, instead of being squeezed side by side. The upright phone layout is unchanged.",
     "63": "A tidier dialog: opening New Game or About now dims the whole screen behind it, including the side panel in the wide tablet layout, instead of leaving the side controls lit up. The dim is even everywhere now.",
-    "64": "A small fix to the count: the score readout now says '1 capture' rather than '1 captures' (and likewise for a single stone in Chinese scoring), so the result reads properly when the number is one."
+    "64": "A small fix to the count: the score readout now says '1 capture' rather than '1 captures' (and likewise for a single stone in Chinese scoring), so the result reads properly when the number is one.",
+    "65": "A living wait: while the computer is thinking its move, the status line now shows a gently animated 'Kaya is thinking…' with the dots cycling, so on a slower search it's clearly working rather than frozen."
   }
 }
