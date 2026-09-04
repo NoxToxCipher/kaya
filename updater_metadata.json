@@ -1,11 +1,11 @@
 {
-  "versionCode": 36,
-  "versionName": "0.1.35",
-  "name": "Kaya 0.1.35",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.35/Kaya-0.1.35.apk",
-  "apkSize": 7657218,
-  "sha256": "d1b41704cf72aee82b0d68e18373650c19aff4b4d25426e5843922581e04777e",
-  "changelog": "A slightly sharper read: the computer no longer wastes exploration on pointless first-line moves, so its sense of who is ahead is cleaner and its play a touch stronger, at the same speed.",
+  "versionCode": 37,
+  "versionName": "0.1.36",
+  "name": "Kaya 0.1.36",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.36/Kaya-0.1.36.apk",
+  "apkSize": 7657754,
+  "sha256": "b5c0731b8451635f25679b30e85909576636ee48e49d891df2d58f8e362fcb2b",
+  "changelog": "A more beautiful board: the wood now catches a soft warm light toward the centre and settles into richer edges, like a real lit goban. Lovely in the dark theme.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -42,6 +42,7 @@
     "33": "Complete results in saved games: a game that ends by counting now records its final score in the SGF (e.g. B+12.5), not just resignations.",
     "34": "Graceful concessions: when the computer is hopelessly behind in a developed game it resigns instead of making you capture everything, but never early off a shaky read.",
     "35": "Share your games: on Android, Save SGF now opens the share sheet to send a finished game (with ruleset and result) to Files, Drive, email, or a chat.",
-    "36": "A slightly sharper read: the computer no longer wastes exploration on pointless first-line moves, so its sense of who is ahead is cleaner and its play a touch stronger."
+    "36": "A slightly sharper read: the computer no longer wastes exploration on pointless first-line moves, so its sense of who is ahead is cleaner and its play a touch stronger.",
+    "37": "A more beautiful board: the wood now catches a soft warm light toward the centre and settles into richer edges, like a real lit goban. Lovely in the dark theme."
   }
 }
