@@ -1,11 +1,11 @@
 {
-  "versionCode": 39,
-  "versionName": "0.1.38",
-  "name": "Kaya 0.1.38",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.38/Kaya-0.1.38.apk",
-  "apkSize": 7658438,
-  "sha256": "214ba9498ce1b2a30b0f182fc2928d3eef3040dc81fde655d8066dbe4a57484c",
-  "changelog": "A more refined New Game dialog: settings sit under small-cap section headers with more breathing room, and a soft divider sets your choices apart from Start game. Tidy in both themes.",
+  "versionCode": 40,
+  "versionName": "0.1.39",
+  "name": "Kaya 0.1.39",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.39/Kaya-0.1.39.apk",
+  "apkSize": 7658802,
+  "sha256": "8053124b9f91fcbf06128341fd2607c27fd8432b2768541bd9ca56b7627d5360",
+  "changelog": "A polished Kaya mark: the two stones in the logo (and the little header mark) now catch the same shading and glossy light as the stones on the board, and the About logo lifts off the panel with a soft shadow.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -45,6 +45,7 @@
     "36": "A slightly sharper read: the computer no longer wastes exploration on pointless first-line moves, so its sense of who is ahead is cleaner and its play a touch stronger.",
     "37": "A more beautiful board: the wood now catches a soft warm light toward the centre and settles into richer edges, like a real lit goban. Lovely in the dark theme.",
     "38": "Glossier stones: each stone now catches a small point of light, so black slate and white shell look polished and three-dimensional against the lit board.",
-    "39": "A more refined New Game dialog: settings sit under small-cap section headers with more breathing room, and a soft divider sets your choices apart from Start game. Tidy in both themes."
+    "39": "A more refined New Game dialog: settings sit under small-cap section headers with more breathing room, and a soft divider sets your choices apart from Start game. Tidy in both themes.",
+    "40": "A polished Kaya mark: the two stones in the logo (and the little header mark) now catch the same shading and glossy light as the stones on the board, and the About logo lifts off the panel with a soft shadow."
   }
 }
