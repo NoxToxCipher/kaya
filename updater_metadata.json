@@ -1,11 +1,11 @@
 {
-  "versionCode": 43,
-  "versionName": "0.1.42",
-  "name": "Kaya 0.1.42",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.42/Kaya-0.1.42.apk",
-  "apkSize": 7659394,
-  "sha256": "f3a1021fab869442f7305b7eb4ddbec972503fada67354e5022ae0d52f2d3156",
-  "changelog": "Tidier scoring: when the game is counted, the territory marks are now smaller, softly rounded, and gently outlined, so they read as delicate points on the wood instead of heavy blocks. The white marks no longer melt into the board.",
+  "versionCode": 44,
+  "versionName": "0.1.43",
+  "name": "Kaya 0.1.43",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.43/Kaya-0.1.43.apk",
+  "apkSize": 7659978,
+  "sha256": "d8abd6dc4c9a73cbcddba48063df4315ddd76a25a65a402b6aca981b1cc45b27",
+  "changelog": "A nicer read-out: after a Hint, the who-is-ahead bar is now a glossy capsule with a soft sheen and a clean divider at the split, instead of a flat black and white block. The hint marker still points the way in the accent colour.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -49,6 +49,7 @@
     "40": "A polished Kaya mark: the two stones in the logo (and the little header mark) now catch the same shading and glossy light as the stones on the board, and the About logo lifts off the panel with a soft shadow.",
     "41": "Nicer player cards: the little Black and White stones on the two player pills are now real, shaded stones with a soft shadow, matching the board and logo. The White marker no longer fades into the cream panel.",
     "42": "A board with real depth: the wood now has a beveled edge, catching light along the top and left and settling into shadow at the bottom and right, so it reads as a solid slab of kaya on the table. Especially lovely in the dark theme.",
-    "43": "Tidier scoring: when the game is counted, the territory marks are now smaller, softly rounded, and gently outlined, so they read as delicate points on the wood instead of heavy blocks. The white marks no longer melt into the board."
+    "43": "Tidier scoring: when the game is counted, the territory marks are now smaller, softly rounded, and gently outlined, so they read as delicate points on the wood instead of heavy blocks. The white marks no longer melt into the board.",
+    "44": "A nicer read-out: after a Hint, the who-is-ahead bar is now a glossy capsule with a soft sheen and a clean divider at the split, instead of a flat black and white block. The hint marker still points the way in the accent colour."
   }
 }
