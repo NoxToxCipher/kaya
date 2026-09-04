@@ -1,11 +1,11 @@
 {
-  "versionCode": 56,
-  "versionName": "0.1.55",
-  "name": "Kaya 0.1.55",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.55/Kaya-0.1.55.apk",
-  "apkSize": 8277362,
-  "sha256": "ba11cf63acf10183915d98891249305a9687e71120ec1f3410f3f58640f3b051",
-  "changelog": "Friendlier setup: Handicap and Komi in the New Game dialog are now simple plus/minus steppers that match the rest of the buttons, instead of fiddly drag-to-change number fields. Easier to nudge with a thumb, and it looks the part.",
+  "versionCode": 57,
+  "versionName": "0.1.56",
+  "name": "Kaya 0.1.56",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.56/Kaya-0.1.56.apk",
+  "apkSize": 8278910,
+  "sha256": "82c64cab14e91e03e35f420c499ed66b56b5fcd87b02bae82d3c3594d0494c5b",
+  "changelog": "A gentler count: when a game is scored, the territory marks now fade and settle into place over a moment, so the board resolves into its territories instead of snapping to the result. A calm little payoff at the end of a game.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -62,6 +62,7 @@
     "53": "Find the last move at a glance: the row and column of the last stone played are now picked out in colour along the board's edge, so the coordinates quietly point to where it landed, alongside the ring on the stone itself.",
     "54": "Captures that look the part: when stones are taken, they now lift off the board as the same polished stones, swelling a touch and fading away, instead of flattening into plain discs. A small, satisfying moment done properly.",
     "55": "A proper app icon: Kaya's launcher icon now wears the same look as the board, two glossy, sphere-shaded stones catching the light on warm lit wood, instead of flat shapes on a flat colour. The face of the app finally matches the app.",
-    "56": "Friendlier setup: Handicap and Komi in the New Game dialog are now simple plus/minus steppers that match the rest of the buttons, instead of fiddly drag-to-change number fields. Easier to nudge with a thumb, and it looks the part."
+    "56": "Friendlier setup: Handicap and Komi in the New Game dialog are now simple plus/minus steppers that match the rest of the buttons, instead of fiddly drag-to-change number fields. Easier to nudge with a thumb, and it looks the part.",
+    "57": "A gentler count: when a game is scored, the territory marks now fade and settle into place over a moment, so the board resolves into its territories instead of snapping to the result. A calm little payoff at the end of a game."
   }
 }
