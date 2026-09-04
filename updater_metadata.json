@@ -1,11 +1,11 @@
 {
-  "versionCode": 45,
-  "versionName": "0.1.44",
-  "name": "Kaya 0.1.44",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.44/Kaya-0.1.44.apk",
-  "apkSize": 7660410,
-  "sha256": "2591e19f46e76c8f77e9fb4814ea217ee1e24b0552a770894ef6b34576127954",
-  "changelog": "Buttons with a little life: Pass, Undo, Hint, New game and Resign now sit on a soft shadow like raised keys, catching a touch of light on top and sinking as you tap. A disabled button stays flat and quiet. Matches the depth of the board and stones.",
+  "versionCode": 46,
+  "versionName": "0.1.45",
+  "name": "Kaya 0.1.45",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.45/Kaya-0.1.45.apk",
+  "apkSize": 7639190,
+  "sha256": "2a82dffa2e2ad6f3928c78e9eb4cbb9c65bbf5c3b1cf0156d7f43287c6e6f2fd",
+  "changelog": "One consistent look: the Menu button up top is now a raised key like the ones along the bottom, and its dropdown opens as clean, easy-to-tap rows. The whole app now feels cut from the same cloth.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -51,6 +51,7 @@
     "42": "A board with real depth: the wood now has a beveled edge, catching light along the top and left and settling into shadow at the bottom and right, so it reads as a solid slab of kaya on the table. Especially lovely in the dark theme.",
     "43": "Tidier scoring: when the game is counted, the territory marks are now smaller, softly rounded, and gently outlined, so they read as delicate points on the wood instead of heavy blocks. The white marks no longer melt into the board.",
     "44": "A nicer read-out: after a Hint, the who-is-ahead bar is now a glossy capsule with a soft sheen and a clean divider at the split, instead of a flat black and white block. The hint marker still points the way in the accent colour.",
-    "45": "Buttons with a little life: Pass, Undo, Hint, New game and Resign now sit on a soft shadow like raised keys, catching a touch of light on top and sinking as you tap. A disabled button stays flat and quiet. Matches the depth of the board and stones."
+    "45": "Buttons with a little life: Pass, Undo, Hint, New game and Resign now sit on a soft shadow like raised keys, catching a touch of light on top and sinking as you tap. A disabled button stays flat and quiet. Matches the depth of the board and stones.",
+    "46": "One consistent look: the Menu button up top is now a raised key like the ones along the bottom, and its dropdown opens as clean, easy-to-tap rows. The whole app now feels cut from the same cloth."
   }
 }
