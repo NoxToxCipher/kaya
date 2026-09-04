@@ -1,11 +1,11 @@
 {
-  "versionCode": 47,
-  "versionName": "0.1.46",
-  "name": "Kaya 0.1.46",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.46/Kaya-0.1.46.apk",
-  "apkSize": 7911730,
-  "sha256": "37c05bd6913ead2e7fd872a735fd90191ccb2b76b83dcbc8f659dd9655855ee0",
-  "changelog": "A typeface with character: the Kaya name, the dialog titles and the game result now wear an elegant serif (Spectral), while the rest stays crisp and clean. A calm, timeless feel that suits an old game. Lovely in both themes.",
+  "versionCode": 48,
+  "versionName": "0.1.47",
+  "name": "Kaya 0.1.47",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.47/Kaya-0.1.47.apk",
+  "apkSize": 8325966,
+  "sha256": "ba008577ac3ace1fe7f2c95d630233c707d358a1db94f89b95a52ccafd9678e6",
+  "changelog": "The whole app now reads in a proper typeface: the body text moves to Fira Sans, a warm, clear humanist sans that pairs with the Spectral serif on the titles. Buttons, labels and the board coordinates all look crisper and more intentional, in both themes.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -53,6 +53,7 @@
     "44": "A nicer read-out: after a Hint, the who-is-ahead bar is now a glossy capsule with a soft sheen and a clean divider at the split, instead of a flat black and white block. The hint marker still points the way in the accent colour.",
     "45": "Buttons with a little life: Pass, Undo, Hint, New game and Resign now sit on a soft shadow like raised keys, catching a touch of light on top and sinking as you tap. A disabled button stays flat and quiet. Matches the depth of the board and stones.",
     "46": "One consistent look: the Menu button up top is now a raised key like the ones along the bottom, and its dropdown opens as clean, easy-to-tap rows. The whole app now feels cut from the same cloth.",
-    "47": "A typeface with character: the Kaya name, the dialog titles and the game result now wear an elegant serif (Spectral), while the rest stays crisp and clean. A calm, timeless feel that suits an old game. Lovely in both themes."
+    "47": "A typeface with character: the Kaya name, the dialog titles and the game result now wear an elegant serif (Spectral), while the rest stays crisp and clean. A calm, timeless feel that suits an old game. Lovely in both themes.",
+    "48": "The whole app now reads in a proper typeface: the body text moves to Fira Sans, a warm, clear humanist sans that pairs with the Spectral serif on the titles. Buttons, labels and the board coordinates all look crisper and more intentional, in both themes."
   }
 }
