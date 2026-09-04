@@ -1,11 +1,11 @@
 {
-  "versionCode": 59,
-  "versionName": "0.1.58",
-  "name": "Kaya 0.1.58",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.58/Kaya-0.1.58.apk",
-  "apkSize": 8279534,
-  "sha256": "0d93524e2a061ee45ecde8a459fd6dcfe79c5688cd7e0ed3ad04dd2c40134149",
-  "changelog": "Real shell stones: the white stones now carry the faintest clamshell grain, the fine growth lines a real yuki Go stone shows, so they read as polished shell rather than plain white. Barely there, but it is the sort of detail a Go player notices.",
+  "versionCode": 60,
+  "versionName": "0.1.59",
+  "name": "Kaya 0.1.59",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.59/Kaya-0.1.59.apk",
+  "apkSize": 8280634,
+  "sha256": "aa1d3caf21c110fb6392e144df164b13744d9a67293a484b8a19c328c30ffcb3",
+  "changelog": "The hint arrives gracefully: when you ask for a Hint, the suggested-move marker now eases onto the board as the read settles, so Kaya's whole suggestion appears with one calm motion rather than snapping in.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -65,6 +65,7 @@
     "56": "Friendlier setup: Handicap and Komi in the New Game dialog are now simple plus/minus steppers that match the rest of the buttons, instead of fiddly drag-to-change number fields. Easier to nudge with a thumb, and it looks the part.",
     "57": "A gentler count: when a game is scored, the territory marks now fade and settle into place over a moment, so the board resolves into its territories instead of snapping to the result. A calm little payoff at the end of a game.",
     "58": "Kaya's read settles in: after a Hint, the who-is-ahead bar now sweeps from even to the estimate, with the percentages counting up as it lands, so the verdict arrives with a considered little motion instead of snapping into place.",
-    "59": "Real shell stones: the white stones now carry the faintest clamshell grain, the fine growth lines a real yuki Go stone shows, so they read as polished shell rather than plain white. Barely there, but it is the sort of detail a Go player notices."
+    "59": "Real shell stones: the white stones now carry the faintest clamshell grain, the fine growth lines a real yuki Go stone shows, so they read as polished shell rather than plain white. Barely there, but it is the sort of detail a Go player notices.",
+    "60": "The hint arrives gracefully: when you ask for a Hint, the suggested-move marker now eases onto the board as the read settles, so Kaya's whole suggestion appears with one calm motion rather than snapping in."
   }
 }
