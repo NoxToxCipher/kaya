@@ -1,4 +1,36 @@
 /**
+ * JS calls this with each JSON message received from the peer.
+ * @param {string} msg
+ */
+export function kaya_net_recv(msg) {
+    const ptr0 = passStringToWasm0(msg, wasm.__wbindgen_malloc, wasm.__wbindgen_realloc);
+    const len0 = WASM_VECTOR_LEN;
+    wasm.kaya_net_recv(ptr0, len0);
+}
+
+/**
+ * JS calls this when the peer connection is up, to start the shared game.
+ * @param {boolean} is_host
+ */
+export function kaya_net_start(is_host) {
+    wasm.kaya_net_start(is_host);
+}
+
+/**
+ * JS calls this on a connection-state change: state is
+ * "waiting"|"peer-left"|"error"; for "waiting", detail is the shareable link.
+ * @param {string} state
+ * @param {string} detail
+ */
+export function kaya_net_status(state, detail) {
+    const ptr0 = passStringToWasm0(state, wasm.__wbindgen_malloc, wasm.__wbindgen_realloc);
+    const len0 = WASM_VECTOR_LEN;
+    const ptr1 = passStringToWasm0(detail, wasm.__wbindgen_malloc, wasm.__wbindgen_realloc);
+    const len1 = WASM_VECTOR_LEN;
+    wasm.kaya_net_status(ptr0, len0, ptr1, len1);
+}
+
+/**
  * wasm module entry — wasm-bindgen calls this automatically when the generated
  * JS `init()` runs, so the page needs no start-up glue of its own.
  */
@@ -732,6 +764,15 @@ function __wbg_get_imports() {
             const ret = arg0.items;
             return ret;
         },
+        __wbg_kayaHost_51947eefa63413ea: function() {
+            kayaHost();
+        },
+        __wbg_kayaJoin_4d983860cd5818e1: function(arg0, arg1) {
+            kayaJoin(getStringFromWasm0(arg0, arg1));
+        },
+        __wbg_kayaNetSend_7028e5e2d57f98f6: function(arg0, arg1) {
+            kayaNetSend(getStringFromWasm0(arg0, arg1));
+        },
         __wbg_keyCode_9e78ef01aed14df6: function(arg0) {
             const ret = arg0.keyCode;
             return ret;
@@ -1205,28 +1246,28 @@ function __wbg_get_imports() {
             return ret;
         },
         __wbindgen_cast_0000000000000001: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [Externref], shim_idx: 224, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [Externref], shim_idx: 262, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke___wasm_bindgen_893906b307bac2b2___JsValue__core_9b3796e30d99ddb7___result__Result_____wasm_bindgen_893906b307bac2b2___JsError___true_);
             return ret;
         },
         __wbindgen_cast_0000000000000002: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Array<any>")], shim_idx: 95, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Array<any>")], shim_idx: 133, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke___js_sys_72fc5b2850a6925d___Array______true_);
             return ret;
         },
         __wbindgen_cast_0000000000000003: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Event")], shim_idx: 95, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Event")], shim_idx: 133, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke___js_sys_72fc5b2850a6925d___Array______true__2);
             return ret;
         },
         __wbindgen_cast_0000000000000004: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 3, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-            const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke_______true_);
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 136, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
+            const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke___core_9b3796e30d99ddb7___result__Result_____wasm_bindgen_893906b307bac2b2___JsValue___true_);
             return ret;
         },
         __wbindgen_cast_0000000000000005: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 98, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
-            const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke___core_9b3796e30d99ddb7___result__Result_____wasm_bindgen_893906b307bac2b2___JsValue___true_);
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 3, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+            const ret = makeMutClosure(arg0, arg1, wasm_bindgen_893906b307bac2b2___convert__closures_____invoke_______true_);
             return ret;
         },
         __wbindgen_cast_0000000000000006: function(arg0, arg1) {
