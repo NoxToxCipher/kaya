@@ -1,11 +1,11 @@
 {
-  "versionCode": 80,
-  "versionName": "0.1.79",
-  "name": "Kaya 0.1.79",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.79/Kaya-0.1.79.apk",
-  "apkSize": 8324110,
-  "sha256": "f582152542f2a3ea3d736dd9cd733b1cbddc0176b5898fc1d8d510da841648bd",
-  "changelog": "A quiet tablet touch. On a tablet, the card of whoever is to move now breathes a soft, slow glow in the accent colour — barely there, never flashing. A small sign the tablet layout was made with care.",
+  "versionCode": 81,
+  "versionName": "0.1.80",
+  "name": "Kaya 0.1.80",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.80/Kaya-0.1.80.apk",
+  "apkSize": 8326474,
+  "sha256": "dd04f0a339765a4a0dcc2d3f64e7bfdabcc49ebcdbee50938225821d2678ea80",
+  "changelog": "The mark comes to life on tablets. On a tablet, the two-stone Kaya mark in the top-left now takes a slow, graceful turn once every 30 seconds and settles back — a small, living detail, and only on tablets.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -86,6 +86,7 @@
     "77": "Kaya shows a better move. While analysing a game in review, Kaya now marks the move it would play in each position and names it in the read, so you see not just where you went wrong but what to do instead.",
     "78": "A more composed tablet layout. In landscape on a tablet, the side panel now sits the player cards at the top and the controls at the bottom, so it reads as a balanced column instead of everything crammed at the top.",
     "79": "Balanced player cards and a considered portrait layout on tablets. The two player cards now always match in width (the inactive one no longer shrinks to a stub beside the active one), which also tidies the portrait tablet view so it reads as a real tablet layout rather than a stretched phone.",
-    "80": "A quiet tablet touch. On a tablet, the card of whoever is to move now breathes a soft, slow glow in the accent colour — barely there, never flashing. A small sign the tablet layout was made with care."
+    "80": "A quiet tablet touch. On a tablet, the card of whoever is to move now breathes a soft, slow glow in the accent colour — barely there, never flashing. A small sign the tablet layout was made with care.",
+    "81": "The mark comes to life on tablets. On a tablet, the two-stone Kaya mark in the top-left now takes a slow, graceful turn once every 30 seconds and settles back — a small, living detail, and only on tablets."
   }
 }
