@@ -1,11 +1,11 @@
 {
-  "versionCode": 71,
-  "versionName": "0.1.70",
-  "name": "Kaya 0.1.70",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.70/Kaya-0.1.70.apk",
-  "apkSize": 8282530,
-  "sha256": "a0a3f139e8ca29481c3eacb2e39e5159b70e23b025a911df96c73fb5e987dc4b",
-  "changelog": "Tap-to-share now opens the playable Kaya. Tapping your phone to another (NFC) used to send them to the download page; it now opens the live, playable Kaya board in their browser — ready to play.",
+  "versionCode": 72,
+  "versionName": "0.1.71",
+  "name": "Kaya 0.1.71",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.71/Kaya-0.1.71.apk",
+  "apkSize": 8287270,
+  "sha256": "fc85db2b17ee1c7173488829e2011c01f11598481b14ef8e622d60ec02ea0585",
+  "changelog": "Review your games. A new bar below the board steps you back through every move — Start, Back, Next, End — with each move named as you go, so you can see how the game unfolded. The board pauses while you study it and picks up right where you left off when you tap End.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -77,6 +77,7 @@
     "68": "The last-move ring now looks right on every board size. Its outline used to be a fixed thickness, which read a touch chunky on the small stones of a 19x19 board; it now scales with the stone, staying elegant on 9x9 and proportionally lighter on 19x19.",
     "69": "Dialogs read as crisp floating cards in the dark theme. The New Game and About panels lean on a drop shadow to lift off the background, but a shadow is invisible against the dark theme's near-black, so the panel used to blur into it. They now carry a fine outline that defines the edge in both themes.",
     "70": "The dead-stone mark now belongs to the board. When you mark stones dead during scoring, the small × over each was a lone bright red — the only pure red in the app. It is now a warm terracotta that sits in Kaya's palette, while staying just as clear on both pale and dark stones.",
-    "71": "Tap-to-share now opens the playable Kaya. Tapping your phone to another (NFC) used to send them to the download page; it now opens the live, playable Kaya board in their browser — ready to play."
+    "71": "Tap-to-share now opens the playable Kaya. Tapping your phone to another (NFC) used to send them to the download page; it now opens the live, playable Kaya board in their browser — ready to play.",
+    "72": "Review your games. A new bar below the board steps you back through every move — Start, Back, Next, End — with each move named as you go, so you can see how the game unfolded. The board pauses while you study it and picks up right where you left off when you tap End."
   }
 }
