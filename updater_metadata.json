@@ -1,11 +1,11 @@
 {
-  "versionCode": 73,
-  "versionName": "0.1.72",
-  "name": "Kaya 0.1.72",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.72/Kaya-0.1.72.apk",
-  "apkSize": 8291242,
-  "sha256": "caf0d4d89dfe84bebd20212517146ae434505af6bb238bcf6978e985b1eb930f",
-  "changelog": "Explained hints. When you ask for a Hint, Kaya now tells you why it likes the move — whether it captures, puts a group in atari, saves one of yours, links your stones, cuts the opponent, or takes a big point — right alongside its read of who is ahead.",
+  "versionCode": 74,
+  "versionName": "0.1.73",
+  "name": "Kaya 0.1.73",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.73/Kaya-0.1.73.apk",
+  "apkSize": 8293326,
+  "sha256": "3d6172bcdc1777def93344c0835de637cd4566120843c721f44c1d0710a46b9c",
+  "changelog": "Move numbers in review. When you step back through a game, each stone now shows the move it was played on, so the whole order of play reads straight off the board.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -79,6 +79,7 @@
     "70": "The dead-stone mark now belongs to the board. When you mark stones dead during scoring, the small × over each was a lone bright red — the only pure red in the app. It is now a warm terracotta that sits in Kaya's palette, while staying just as clear on both pale and dark stones.",
     "71": "Tap-to-share now opens the playable Kaya. Tapping your phone to another (NFC) used to send them to the download page; it now opens the live, playable Kaya board in their browser — ready to play.",
     "72": "Review your games. A new bar below the board steps you back through every move — Start, Back, Next, End — with each move named as you go, so you can see how the game unfolded. The board pauses while you study it and picks up right where you left off when you tap End.",
-    "73": "Explained hints. When you ask for a Hint, Kaya now tells you why it likes the move — whether it captures, puts a group in atari, saves one of yours, links your stones, cuts the opponent, or takes a big point — right alongside its read of who is ahead."
+    "73": "Explained hints. When you ask for a Hint, Kaya now tells you why it likes the move — whether it captures, puts a group in atari, saves one of yours, links your stones, cuts the opponent, or takes a big point — right alongside its read of who is ahead.",
+    "74": "Move numbers in review. When you step back through a game, each stone now shows the move it was played on, so the whole order of play reads straight off the board."
   }
 }
