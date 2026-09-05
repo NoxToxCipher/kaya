@@ -1,11 +1,11 @@
 {
-  "versionCode": 75,
-  "versionName": "0.1.74",
-  "name": "Kaya 0.1.74",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.74/Kaya-0.1.74.apk",
-  "apkSize": 8307298,
-  "sha256": "3116d99853619eb873f5450cbec9bd7a1fae4005f45aaa6b62868af0f5eace38",
-  "changelog": "Analyse your moves. While reviewing a game, tap Analyse and Kaya reads the position — who is ahead, and how much the move that reached it cost — so you can find exactly where a game turned.",
+  "versionCode": 76,
+  "versionName": "0.1.75",
+  "name": "Kaya 0.1.75",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.75/Kaya-0.1.75.apk",
+  "apkSize": 8320306,
+  "sha256": "eeb67476b82f11efeb0707407881b5e96b41e484775581aa6697dbe75af01d97",
+  "changelog": "Find your mistakes in one tap. A new Find mistakes button reviews a whole game at once and lists the moves that cost the most, so you can jump straight to your biggest swings instead of stepping through by hand.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -81,6 +81,7 @@
     "72": "Review your games. A new bar below the board steps you back through every move — Start, Back, Next, End — with each move named as you go, so you can see how the game unfolded. The board pauses while you study it and picks up right where you left off when you tap End.",
     "73": "Explained hints. When you ask for a Hint, Kaya now tells you why it likes the move — whether it captures, puts a group in atari, saves one of yours, links your stones, cuts the opponent, or takes a big point — right alongside its read of who is ahead.",
     "74": "Move numbers in review. When you step back through a game, each stone now shows the move it was played on, so the whole order of play reads straight off the board.",
-    "75": "Analyse your moves. While reviewing a game, tap Analyse and Kaya reads the position — who is ahead, and how much the move that reached it cost — so you can find exactly where a game turned."
+    "75": "Analyse your moves. While reviewing a game, tap Analyse and Kaya reads the position — who is ahead, and how much the move that reached it cost — so you can find exactly where a game turned.",
+    "76": "Find your mistakes in one tap. A new Find mistakes button reviews a whole game at once and lists the moves that cost the most, so you can jump straight to your biggest swings instead of stepping through by hand."
   }
 }
