@@ -1,11 +1,11 @@
 {
-  "versionCode": 78,
-  "versionName": "0.1.77",
-  "name": "Kaya 0.1.77",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.77/Kaya-0.1.77.apk",
-  "apkSize": 8323374,
-  "sha256": "b0ad9e0c8f374c437f4f85c798084d4581f1f0c12ff0165e4e897ebfb3770521",
-  "changelog": "A more composed tablet layout. In landscape on a tablet, the side panel now sits the player cards at the top and the controls at the bottom, so it reads as a balanced column instead of everything crammed at the top.",
+  "versionCode": 79,
+  "versionName": "0.1.78",
+  "name": "Kaya 0.1.78",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.78/Kaya-0.1.78.apk",
+  "apkSize": 8323346,
+  "sha256": "4b2f844f1448e32f5dd9dd15e6c7a4cc8c467d88eb0cd77b243102a0e31ef731",
+  "changelog": "Balanced player cards and a considered portrait layout on tablets. The two player cards now always match in width (the inactive one no longer shrinks to a stub beside the active one), which also tidies the portrait tablet view so it reads as a real tablet layout rather than a stretched phone.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -84,6 +84,7 @@
     "75": "Analyse your moves. While reviewing a game, tap Analyse and Kaya reads the position — who is ahead, and how much the move that reached it cost — so you can find exactly where a game turned.",
     "76": "Find your mistakes in one tap. A new Find mistakes button reviews a whole game at once and lists the moves that cost the most, so you can jump straight to your biggest swings instead of stepping through by hand.",
     "77": "Kaya shows a better move. While analysing a game in review, Kaya now marks the move it would play in each position and names it in the read, so you see not just where you went wrong but what to do instead.",
-    "78": "A more composed tablet layout. In landscape on a tablet, the side panel now sits the player cards at the top and the controls at the bottom, so it reads as a balanced column instead of everything crammed at the top."
+    "78": "A more composed tablet layout. In landscape on a tablet, the side panel now sits the player cards at the top and the controls at the bottom, so it reads as a balanced column instead of everything crammed at the top.",
+    "79": "Balanced player cards and a considered portrait layout on tablets. The two player cards now always match in width (the inactive one no longer shrinks to a stub beside the active one), which also tidies the portrait tablet view so it reads as a real tablet layout rather than a stretched phone."
   }
 }
