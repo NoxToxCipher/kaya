@@ -1,11 +1,11 @@
 {
-  "versionCode": 77,
-  "versionName": "0.1.76",
-  "name": "Kaya 0.1.76",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.76/Kaya-0.1.76.apk",
-  "apkSize": 8321950,
-  "sha256": "e7ba86c07f32a1e18e5077d566e2289f1414f91016f9b67f757e365d09de3a35",
-  "changelog": "Kaya shows a better move. While analysing a game in review, Kaya now marks the move it would play in each position and names it in the read, so you see not just where you went wrong but what to do instead.",
+  "versionCode": 78,
+  "versionName": "0.1.77",
+  "name": "Kaya 0.1.77",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.77/Kaya-0.1.77.apk",
+  "apkSize": 8323374,
+  "sha256": "b0ad9e0c8f374c437f4f85c798084d4581f1f0c12ff0165e4e897ebfb3770521",
+  "changelog": "A more composed tablet layout. In landscape on a tablet, the side panel now sits the player cards at the top and the controls at the bottom, so it reads as a balanced column instead of everything crammed at the top.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -83,6 +83,7 @@
     "74": "Move numbers in review. When you step back through a game, each stone now shows the move it was played on, so the whole order of play reads straight off the board.",
     "75": "Analyse your moves. While reviewing a game, tap Analyse and Kaya reads the position — who is ahead, and how much the move that reached it cost — so you can find exactly where a game turned.",
     "76": "Find your mistakes in one tap. A new Find mistakes button reviews a whole game at once and lists the moves that cost the most, so you can jump straight to your biggest swings instead of stepping through by hand.",
-    "77": "Kaya shows a better move. While analysing a game in review, Kaya now marks the move it would play in each position and names it in the read, so you see not just where you went wrong but what to do instead."
+    "77": "Kaya shows a better move. While analysing a game in review, Kaya now marks the move it would play in each position and names it in the read, so you see not just where you went wrong but what to do instead.",
+    "78": "A more composed tablet layout. In landscape on a tablet, the side panel now sits the player cards at the top and the controls at the bottom, so it reads as a balanced column instead of everything crammed at the top."
   }
 }
