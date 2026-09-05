@@ -1,11 +1,11 @@
 {
-  "versionCode": 82,
-  "versionName": "0.1.81",
-  "name": "Kaya 0.1.81",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.81/Kaya-0.1.81.apk",
-  "apkSize": 8327198,
-  "sha256": "54911fc75a8086637555ee938c5d020e97a9d9013db932d6e93e67dcbcf09caa",
-  "changelog": "A crisp opening. Instead of snapping in, Kaya now fades up gently from the background as it opens, with the board settling to full size — a small, premium entrance on every device.",
+  "versionCode": 83,
+  "versionName": "0.1.82",
+  "name": "Kaya 0.1.82",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.82/Kaya-0.1.82.apk",
+  "apkSize": 8327518,
+  "sha256": "98b7f1bc6bb00639a94e505937fe47e836b147e3162e17f7b8f45a2df284a613",
+  "changelog": "A tougher opponent, if you want one. New Game now offers a fourth level, Strong, that reads about three times as deep as Hard. It takes several seconds a move but plays a distinctly harder game.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -88,6 +88,7 @@
     "79": "Balanced player cards and a considered portrait layout on tablets. The two player cards now always match in width (the inactive one no longer shrinks to a stub beside the active one), which also tidies the portrait tablet view so it reads as a real tablet layout rather than a stretched phone.",
     "80": "A quiet tablet touch. On a tablet, the card of whoever is to move now breathes a soft, slow glow in the accent colour — barely there, never flashing. A small sign the tablet layout was made with care.",
     "81": "The mark comes to life on tablets. On a tablet, the two-stone Kaya mark in the top-left now takes a slow, graceful turn once every 30 seconds and settles back — a small, living detail, and only on tablets.",
-    "82": "A crisp opening. Instead of snapping in, Kaya now fades up gently from the background as it opens, with the board settling to full size — a small, premium entrance on every device."
+    "82": "A crisp opening. Instead of snapping in, Kaya now fades up gently from the background as it opens, with the board settling to full size — a small, premium entrance on every device.",
+    "83": "A tougher opponent, if you want one. New Game now offers a fourth level, Strong, that reads about three times as deep as Hard. It takes several seconds a move but plays a distinctly harder game."
   }
 }
