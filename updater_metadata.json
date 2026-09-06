@@ -1,11 +1,11 @@
 {
-  "versionCode": 89,
-  "versionName": "0.1.88",
-  "name": "Kaya 0.1.88",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.88/Kaya-0.1.88.apk",
-  "apkSize": 8374042,
-  "sha256": "0537ea4364899a4454b0f7af35736a5fa932103a0892dc4406bfba5be2b89cc1",
-  "changelog": "Solve problems. A new Solve problems mode (in the menu) gives you life-and-death and capturing puzzles: play the vital point, get a hint if you're stuck, and move on to the next. A small starter set to grow.",
+  "versionCode": 90,
+  "versionName": "0.1.89",
+  "name": "Kaya 0.1.89",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.89/Kaya-0.1.89.apk",
+  "apkSize": 8374726,
+  "sha256": "5b60d9310e197550d532da884c0f563932b02669030a8e8cf1f060b71cefaa62",
+  "changelog": "Steadier board. Placing a stone no longer nudges the board a hair — the space below it (the status line, and the problem feedback while solving) is now held at a fixed height, so the board stays put.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -95,6 +95,7 @@
     "86": "Read the commentary. When you open a commented game or teaching record, Kaya now shows each move's comment in a soft card as you step through it — so studying an annotated game reads the way it should.",
     "87": "Board markup in reviews. Kaya now draws the annotations a teaching record carries — triangles, squares, circles, crosses and letter/number labels — on the board as you step through a game.",
     "88": "Records round-trip. Saving or sharing a game you opened now keeps its record — the player names and ranks, event, date, and result travel with it, instead of being dropped.",
-    "89": "Solve problems. A new Solve problems mode (in the menu) gives you life-and-death and capturing puzzles: play the vital point, get a hint if you're stuck, and move on to the next. A small starter set to grow."
+    "89": "Solve problems. A new Solve problems mode (in the menu) gives you life-and-death and capturing puzzles: play the vital point, get a hint if you're stuck, and move on to the next. A small starter set to grow.",
+    "90": "Steadier board. Placing a stone no longer nudges the board a hair — the space below it (the status line, and the problem feedback while solving) is now held at a fixed height, so the board stays put."
   }
 }
