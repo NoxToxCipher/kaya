@@ -1,11 +1,11 @@
 {
-  "versionCode": 83,
-  "versionName": "0.1.82",
-  "name": "Kaya 0.1.82",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.82/Kaya-0.1.82.apk",
-  "apkSize": 8327518,
-  "sha256": "98b7f1bc6bb00639a94e505937fe47e836b147e3162e17f7b8f45a2df284a613",
-  "changelog": "A tougher opponent, if you want one. New Game now offers a fourth level, Strong, that reads about three times as deep as Hard. It takes several seconds a move but plays a distinctly harder game.",
+  "versionCode": 84,
+  "versionName": "0.1.83",
+  "name": "Kaya 0.1.83",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.83/Kaya-0.1.83.apk",
+  "apkSize": 8345906,
+  "sha256": "b580f30916e30d4e10cd5b81b19c56cda6ceab0879c414a5d821f476a862a3a7",
+  "changelog": "Open games in Kaya. You can now share an SGF to Kaya, or open an .sgf file with it, and the game loads ready to review — so the whole review, Find mistakes, and suggested-move suite works on real games, not just ones played in Kaya.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -89,6 +89,7 @@
     "80": "A quiet tablet touch. On a tablet, the card of whoever is to move now breathes a soft, slow glow in the accent colour — barely there, never flashing. A small sign the tablet layout was made with care.",
     "81": "The mark comes to life on tablets. On a tablet, the two-stone Kaya mark in the top-left now takes a slow, graceful turn once every 30 seconds and settles back — a small, living detail, and only on tablets.",
     "82": "A crisp opening. Instead of snapping in, Kaya now fades up gently from the background as it opens, with the board settling to full size — a small, premium entrance on every device.",
-    "83": "A tougher opponent, if you want one. New Game now offers a fourth level, Strong, that reads about three times as deep as Hard. It takes several seconds a move but plays a distinctly harder game."
+    "83": "A tougher opponent, if you want one. New Game now offers a fourth level, Strong, that reads about three times as deep as Hard. It takes several seconds a move but plays a distinctly harder game.",
+    "84": "Open games in Kaya. You can now share an SGF to Kaya, or open an .sgf file with it, and the game loads ready to review — so the whole review, Find mistakes, and suggested-move suite works on real games, not just ones played in Kaya."
   }
 }
