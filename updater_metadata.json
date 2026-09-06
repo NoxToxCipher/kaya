@@ -1,11 +1,11 @@
 {
-  "versionCode": 85,
-  "versionName": "0.1.84",
-  "name": "Kaya 0.1.84",
-  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.84/Kaya-0.1.84.apk",
-  "apkSize": 8358422,
-  "sha256": "d40722dcc100c6138c33fa3ac00531047f755e255079921923c92796ad1a84f4",
-  "changelog": "Loaded games show their record. When you open an SGF, the player cards now wear the real names and ranks, and a header shows the event, date, and result in plain words — so a loaded game reads like the record it is, not just stones on a board.",
+  "versionCode": 86,
+  "versionName": "0.1.85",
+  "name": "Kaya 0.1.85",
+  "apkDownloadUrl": "https://github.com/NoxToxCipher/kaya/releases/download/v0.1.85/Kaya-0.1.85.apk",
+  "apkSize": 8359830,
+  "sha256": "0d1a38de99766ac73f8b40b440d2bded68e5df353200a72c71e575df405a84dd",
+  "changelog": "Read the commentary. When you open a commented game or teaching record, Kaya now shows each move's comment in a soft card as you step through it — so studying an annotated game reads the way it should.",
   "history": {
     "1": "First build: offline board, full rules and scoring, SGF, and a computer opponent.",
     "2": "Dark theme (Crake palette) with a light/dark toggle, plus a tidier header.",
@@ -91,6 +91,7 @@
     "82": "A crisp opening. Instead of snapping in, Kaya now fades up gently from the background as it opens, with the board settling to full size — a small, premium entrance on every device.",
     "83": "A tougher opponent, if you want one. New Game now offers a fourth level, Strong, that reads about three times as deep as Hard. It takes several seconds a move but plays a distinctly harder game.",
     "84": "Open games in Kaya. You can now share an SGF to Kaya, or open an .sgf file with it, and the game loads ready to review — so the whole review, Find mistakes, and suggested-move suite works on real games, not just ones played in Kaya.",
-    "85": "Loaded games show their record. When you open an SGF, the player cards now wear the real names and ranks, and a header shows the event, date, and result in plain words — so a loaded game reads like the record it is, not just stones on a board."
+    "85": "Loaded games show their record. When you open an SGF, the player cards now wear the real names and ranks, and a header shows the event, date, and result in plain words — so a loaded game reads like the record it is, not just stones on a board.",
+    "86": "Read the commentary. When you open a commented game or teaching record, Kaya now shows each move's comment in a soft card as you step through it — so studying an annotated game reads the way it should."
   }
 }
